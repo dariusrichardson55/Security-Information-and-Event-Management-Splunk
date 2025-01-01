@@ -4,15 +4,25 @@ to run and to set an alert when a condition is met.
 
 
 <h1>Website</h1>
-This is the website to get to Splunk Enterprise
 
-<b><h1>Scheduling Reports & Alerts</h1></b>
+This is the website used for the duration of the task.
 
+<ul>
+ <li>Splunk Enterprise/Labs</li>
+</ul>
+
+
+This is the CSV file that will be used to add the data to Splunk Enterprise. 
+
+<ul>
+  <li>sample_visualization_logs.csv</li>
+</ul>
+
+<b><h1>Task Walk-through</h1></b>
 
 <p align="center">First download Splunk (https://www.splunk.com/en_us/download/splunk-enterprise.html). Make sure to sign up and follow the instructions then sign in and then the page will redirect you to the download page to download Splunk.</p>
 
-
- ![image](https://github.com/user-attachments/assets/e0f64dfe-7178-43dd-b774-d40668daf4f2)
+![image](https://github.com/user-attachments/assets/4652724f-6726-428d-ba3b-fe777df0bce4)
 
 
 <p align="center">Once downloaded, it will display the installer option, click the checkbox to licence agreement then press Next.</p>
@@ -31,16 +41,18 @@ This is the website to get to Splunk Enterprise
 
 <p align="center">Once that’s done. Select Settings from the top, It will display a drop-down menu select Add data.</p>
 
-![image](https://github.com/user-attachments/assets/46dd32fa-1c3a-4e76-a5ef-03e14fd8dccd)
+![image](https://github.com/user-attachments/assets/c5714662-42bf-4741-89d9-61402fde0070)
 
 
 <p align="center">Scroll down and select upload.</p>
 
-![image](https://github.com/user-attachments/assets/af9dc651-560c-44e6-80e2-e8c5e14fc832)
+![image](https://github.com/user-attachments/assets/07416312-68c9-4855-b18e-2f53f64cbbf3)
+
 
 <p align="center">Press select the file and upload the ‘sample_visualization_logs’ file then press next. Continue to press next until you reach the ‘done’ stage.</p> 
 
-![image](https://github.com/user-attachments/assets/d590cf69-da44-49d8-b25f-7e5e971baab0)
+![image](https://github.com/user-attachments/assets/0691ac48-e9ca-473d-a823-e04c3eb22637)
+
 
 <p align="center">Next, press the start searching button.</p>
 
@@ -59,7 +71,8 @@ This is the website to get to Splunk Enterprise
 
 <p align="center">Then select a schedule to set when and how to be altered.</p>
 
-![image](https://github.com/user-attachments/assets/5cd2e5f3-8ae1-488b-9fb4-1fd85208206a)
+![image](https://github.com/user-attachments/assets/a5c19ae0-2631-4830-b193-6d39801f20ee)
+
 
 <p align="center">Change the schedule to every week on Monday at 06:00 for the last 7 days. Schedule priority Higher.</p> 
 
@@ -67,7 +80,8 @@ This is the website to get to Splunk Enterprise
 
 <p align="center">With the add actions button, you can select which action to take when the event has been triggered. Select Send email to be able to send the alert.</p>
 
-![image](https://github.com/user-attachments/assets/656f3aba-3382-425a-869a-71001d493966)
+![image](https://github.com/user-attachments/assets/828b2ba1-1997-4219-bb9b-b668a1469b3b)
+
 
 <p align="center">Enter the email address to which you want the alert to be sent.</p>
 
@@ -77,7 +91,8 @@ This is the website to get to Splunk Enterprise
 
 <p align="center">Go to save as and select alert.</p>
 
-![image](https://github.com/user-attachments/assets/6a735cf1-1491-4975-b73a-ce0610d8eb7c)
+![image](https://github.com/user-attachments/assets/a3ff5810-d028-41a5-b3eb-29db47ebbb91)
+
 
 <p align="center">Enter the title and descriptions as well as select the real-time.</p>
 
@@ -85,11 +100,12 @@ This is the website to get to Splunk Enterprise
 
 <p align="center">On the pre-result option, select the ‘number of results’ button.</p>
 
-![image](https://github.com/user-attachments/assets/85c381bf-1342-4c18-b467-cc6ea5f2beb4)
+![image](https://github.com/user-attachments/assets/5cf478ef-c146-4957-b26a-469fdbd20e2a)
+
 
 <p align="center">In the add actions button, select ‘Add to triggered alerts’ then press save.</p>
 
-![image](https://github.com/user-attachments/assets/e8e676ee-5d86-4fc6-ba7e-679787270893)
+![image](https://github.com/user-attachments/assets/bf817c6f-53ff-4598-ab37-9863d1895d99)
 
 
 <p align="center">Once that’s done. The result should be displayed below.</p>
