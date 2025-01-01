@@ -1,3 +1,6 @@
+<b><h1>Scheduling Reports & Alerts</h1></b>
+
+
 First download Splunk (https://www.splunk.com/en_us/download/splunk-enterprise.html). Make sure to sign up and follow the instructions then sign in and then the page will redirect you to the download page to download Splunk.
 
 
