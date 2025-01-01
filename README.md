@@ -7,8 +7,7 @@ project will consist of tasks each showing how to use the features that Splunk p
 This project will consist of the following tasks:
 
 <ol>
-  <li>Scheduling Reports & Alerts
-</li>
+  <li>Scheduling Reports & Alerts</li>
 </ol>
 
 <h1>Website</h1>
@@ -16,7 +15,7 @@ This project will consist of the following tasks:
 This is the website that will be used for the project.
 
 <ul>
- <li>Splunk Enterprise/Labs</li>
+ <li><a href="http://127.0.0.1:8000/en-GB/account/login?return_to=%2Fen-GB%2Faccount%2F">Splunk Enterprise/Labs</li> 
 </ul>
 
 This is the CSV file that will be used to add the data to Splunk Enterprise. 
