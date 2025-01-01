@@ -18,7 +18,7 @@ This is the CSV file that will be used to add the data to Splunk Enterprise.
   <li>sample_visualization_logs.csv</li>
 </ul>
 
-<b><h1>Task Walk-through</h1></b>
+<b><h1>Task walk-through</h1></b>
 
 <p align="center">First download Splunk (https://www.splunk.com/en_us/download/splunk-enterprise.html). Make sure to sign up and follow the instructions then sign in and then the page will redirect you to the download page to download Splunk.</p>
 
