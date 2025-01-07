@@ -78,9 +78,9 @@ This is the CSV file that will be used to add the data to Splunk Enterprise.
 
 ![image](https://github.com/user-attachments/assets/d26cb16b-b177-405a-b84d-f0b9cf340205)
 
-<p align="center">With the add actions button, you can select which action to take when the event has been triggered. Select Send email to be able to send the alert.</p>
+<p align="center">With the add actions button, you can select which action to take when the event has been triggered. Select Send email to send the alert.</p>
 
-![image](https://github.com/user-attachments/assets/828b2ba1-1997-4219-bb9b-b668a1469b3b)
+![image](https://github.com/user-attachments/assets/1a177877-33e5-4a56-b681-12eb1e0e14d4)
 
 
 <p align="center">Enter the email address to which you want the alert to be sent.</p>
