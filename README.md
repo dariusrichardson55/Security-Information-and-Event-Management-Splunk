@@ -1,6 +1,6 @@
 <b><h1>Splunk Project</h1></b>
 
-As a cybersecurity analyst, It is important to have a good understanding and practical experience in Security Information and Event Management so I took the opportunity to demonstrate this by doing a Slunk project that provides a walk-through on how to use Splunk with various features that would be commonly used in tech companies. The project will consist of tasks each showing how to use Splunk's features.
+As a cybersecurity analyst, It is important to have a good understanding and practical experience in Security Information and Event Management so I took the opportunity to demonstrate this by doing a Slunk project that provides a walk-through on how to use Splunk with various features that would be commonly used in tech companies. The project will consist of tasks each showing how to use Splunk's features and functionalities.
 
 This project will consist of the following tasks:
 
