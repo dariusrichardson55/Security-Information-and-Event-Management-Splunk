@@ -3,18 +3,22 @@ This task provides an example of creating a dashboard on Splunk to be able to ea
 needing to search queries every time to locate data.
 
 <h1>Website</h1>
+
 This is the website used for the duration of the task.
 
-<a href="https://prd-p-dwdc9.splunkcloud.com/en-GB/account/login?return_to=%2Fen-GB%2Faccount%2F">Splunk Cloud Platform</a>
+<ul>
+<li><a href="https://prd-p-dwdc9.splunkcloud.com/en-GB/account/login?return_to=%2Fen-GB%2Faccount%2F">Splunk Cloud Platform</a></li></ul>
 
+<h1>File</h1>
 
+This CSV file will be used to add the data to the Splunk Cloud Platform.
 
-Splunk Enterprise/Labs
-This CSV file will be used to add the data to Splunk Enterprise.
+<ul>
+  <li>splunk_sample_data.csv</li>
+</ul>
 
-splunk_sample_data.csv
+<b><h1>Task walk-through</h1></b>
 
-Task walk-through
 
 ![image](https://github.com/user-attachments/assets/cb73b721-299d-464d-b44a-09af9aa0fb01)
 
