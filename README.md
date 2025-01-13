@@ -22,7 +22,7 @@ Before starting the tasks, you need to create a Splunk account and install Splun
 
 <b><h1>Install Splunk Enterprise</h1></b>
 
-<p align="center">Next choose your operating system and download <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html"> Splunk Enterprise, </a></p>
+<p align="center">Next choose your operating system and download <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html"> Splunk Enterprise. </a></p>
 
 ![image](https://github.com/user-attachments/assets/4652724f-6726-428d-ba3b-fe777df0bce4)
 
