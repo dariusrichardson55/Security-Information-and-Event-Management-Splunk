@@ -14,7 +14,7 @@ Before starting the tasks, you need to install Splunk Enterprise and create an a
 
 <b><h1>Create a Splunk account</h1></b>
 
-<p>First Splunk account. This will be used to login to Splunk Cloud Platform.</p>
+<p>Create the Splunk account, the instructions to create the account will be on the website. Note that this account will be used to login to Splunk Cloud Platform.</p>
 
 <ul>
   <li> <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html">Splunk Enterprise</li></a>
@@ -22,7 +22,7 @@ Before starting the tasks, you need to install Splunk Enterprise and create an a
 
 <b><h1>Download Splunk Enterprise</h1></b>
 
-<p align="center">Next <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html">download Splunk.</a></p>
+<p align="center">Next choose your operating system and download <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html"> Splunk Enterprise, </a></p>
 
 ![image](https://github.com/user-attachments/assets/4652724f-6726-428d-ba3b-fe777df0bce4)
 
