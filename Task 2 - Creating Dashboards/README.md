@@ -1,3 +1,20 @@
+Description
+This task provides an example of creating a dashboard on Splunk to be able to easily access specific up-to-date data without
+needing to search queries every time to locate data.
+
+Website
+This is the website used for the duration of the task.
+
+<a href="https://prd-p-dwdc9.splunkcloud.com/en-GB/account/login?return_to=%2Fen-GB%2Faccount%2F">Splunk Cloud Platform</a>
+
+
+
+Splunk Enterprise/Labs
+This CSV file will be used to add the data to Splunk Enterprise.
+
+splunk_sample_data.csv
+
+Task walk-through
 
 ![image](https://github.com/user-attachments/assets/cb73b721-299d-464d-b44a-09af9aa0fb01)
 
@@ -26,6 +43,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/9d9d7afe-8066-459c-b9d4-9a1230587517)
+
 
 
 ![image](https://github.com/user-attachments/assets/87acc0a5-1e6b-4d10-a2ed-4685d0c2984e)
