@@ -1,0 +1,11 @@
+timestamp,src_ip,user,event_type,status
+2025-01-13 08:00:00,192.168.1.100,user1,login_failed,failure
+2025-01-13 08:05:00,192.168.1.101,user2,login_successful,success
+2025-01-13 08:10:00,192.168.1.100,user1,login_failed,failure
+2025-01-13 08:15:00,192.168.1.102,user3,login_failed,failure
+2025-01-13 08:20:00,192.168.1.101,user2,login_successful,success
+2025-01-13 08:25:00,192.168.1.100,user1,login_failed,failure
+2025-01-13 08:30:00,192.168.1.103,user4,login_failed,failure
+2025-01-13 08:35:00,192.168.1.101,user2,login_successful,success
+2025-01-13 08:40:00,192.168.1.100,user1,login_failed,failure
+2025-01-13 08:45:00,192.168.1.104,user5,login_successful,success
