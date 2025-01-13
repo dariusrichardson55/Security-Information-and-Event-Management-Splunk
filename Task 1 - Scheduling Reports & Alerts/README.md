@@ -12,8 +12,9 @@ This is the website used for the duration of the task.
 
 </ul>
 
+<h1>File</h1>
 
-This is the CSV file that will be used to add the data to Splunk Enterprise. 
+This CSV file will be used to add the data Splunk Cloud Platform. 
 
 <ul>
   <li>sample_visualization_logs.csv</li>
