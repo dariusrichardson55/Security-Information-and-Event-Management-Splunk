@@ -1,8 +1,8 @@
-Description
+<h1>Description</h1>
 This task provides an example of creating a dashboard on Splunk to be able to easily access specific up-to-date data without
 needing to search queries every time to locate data.
 
-Website
+<h1>Website</h1>
 This is the website used for the duration of the task.
 
 <a href="https://prd-p-dwdc9.splunkcloud.com/en-GB/account/login?return_to=%2Fen-GB%2Faccount%2F">Splunk Cloud Platform</a>
