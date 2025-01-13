@@ -8,7 +8,8 @@ to run and to set an alert when a condition is met.
 This is the website used for the duration of the task.
 
 <ul>
- <li>Splunk Enterprise/Labs</li>
+<li><a href="https://prd-p-dwdc9.splunkcloud.com/en-GB/account/login?return_to=%2Fen-GB%2Faccount%2F">Splunk Cloud Platform</a></li>
+
 </ul>
 
 
