@@ -12,20 +12,22 @@ This project will consist of the following tasks:
 Before starting the tasks, you need to install Splunk Enterprise and create an account, note that this is a free trial to use Splunk.
 
 
-<b><h1>Task walk-through</h1></b>
+<b><h1>Create a Splunk account</h1></b>
 
-<p align="center">First, create a <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html">Splunk account.</a> This will be used to login to Splunk Cloud Platform.</p>
+<p>First Splunk account. This will be used to login to Splunk Cloud Platform.</p>
 
-![image](https://github.com/user-attachments/assets/b50ac28c-c68c-4ee6-810d-31babd51d3f1)
+<ul>
+  <li> <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html">Splunk Enterprise</li></a>
+</ul>
 
+<b><h1>Download Splunk Enterprise</h1></b>
 
-
-<p align="center">Next <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html">download Splunk.</a> Make sure to sign up and follow the instructions then sign in and then the page will redirect you to the download page to download Splunk.</p>
+<p align="center">Next <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html">download Splunk.</a></p>
 
 ![image](https://github.com/user-attachments/assets/4652724f-6726-428d-ba3b-fe777df0bce4)
 
 
-<p align="center">Once downloaded, it will display the installer option, click the checkbox to licence agreement then press Next.</p>
+<p align="center">Once downloaded, it will display the installer option, click the checkbox to licence agreement then press next.</p>
 
 ![image](https://github.com/user-attachments/assets/adaed98a-459d-4194-b105-133dbfed2054)
 
