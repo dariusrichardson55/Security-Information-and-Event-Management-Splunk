@@ -9,7 +9,7 @@ This project will consist of the following tasks:
   <li>Creating Dashboards</li>
 </ol>
 
-Before starting the tasks, you need to install Splunk Enterprise and create an account, note that this is a free trial to use Splunk.
+Before starting the tasks, you need to create a Splunk account and install Splunk Enterprise, note that this is a free trial to use Splunk.
 
 
 <b><h1>Create a Splunk account</h1></b>
@@ -20,7 +20,7 @@ Before starting the tasks, you need to install Splunk Enterprise and create an a
   <li> <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html">Splunk Enterprise</li></a>
 </ul>
 
-<b><h1>Download Splunk Enterprise</h1></b>
+<b><h1>Install Splunk Enterprise</h1></b>
 
 <p align="center">Next choose your operating system and download <a href="https://www.splunk.com/en_us/download/splunk-enterprise.html"> Splunk Enterprise, </a></p>
 
