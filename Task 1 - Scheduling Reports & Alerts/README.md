@@ -22,26 +22,7 @@ This CSV file will be used to add the data Splunk Cloud Platform.
 
 <b><h1>Task walk-through</h1></b>
 
-<p align="center">First download Splunk (https://www.splunk.com/en_us/download/splunk-enterprise.html). Make sure to sign up and follow the instructions then sign in and then the page will redirect you to the download page to download Splunk.</p>
-
-![image](https://github.com/user-attachments/assets/4652724f-6726-428d-ba3b-fe777df0bce4)
-
-
-<p align="center">Once downloaded, it will display the installer option, click the checkbox to licence agreement then press Next.</p>
-
-![image](https://github.com/user-attachments/assets/adaed98a-459d-4194-b105-133dbfed2054)
-
-<p align="center">Now you can just type in your username(the same as your email address that you used to sign up) and then your login password. Press next. Once you press next, click finish to automatically open Spunk Enterprise.</p> 
-
-![image](https://github.com/user-attachments/assets/862074f4-3ece-4024-b4c8-fcc1885a5894)
-
-
-
-<p align="center">Sign in using your email address and password from your account.</p>
-
-![image](https://github.com/user-attachments/assets/7508a537-ae3b-4680-8f5f-9c46f84e5f18)
-
-<p align="center">Once that’s done. Select Settings from the top, It will display a drop-down menu select Add data.</p>
+<p align="center">Select Settings from the top, It will display a drop-down menu select 'Add data'.</p>
 
 ![image](https://github.com/user-attachments/assets/c5714662-42bf-4741-89d9-61402fde0070)
 
